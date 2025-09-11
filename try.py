@@ -3,6 +3,15 @@ print("Python di VS Code sudah jalan 🚀")
 contoh_teks = 'halo semua'
 print(type(contoh_teks))
 
+a=3
+print (a)
+print(type(a))
+
+a=3
+a = a+4
+print(a)
+
+
 contoh_list = [1, 2, 3, 4, 5, 6]
 print(type(contoh_list))
 
